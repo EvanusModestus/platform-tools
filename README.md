@@ -23,7 +23,7 @@ This repository demonstrates production-ready solutions developed through real-w
 - ☁️ **Platform Engineering**: Infrastructure as Code, GitOps, CI/CD, Containerization
 - 🛠️ **Full-Stack Development**: Next.js, React, Node.js, PostgreSQL, Redis
 - 📊 **Monitoring & Analytics**: SNMP, NetFlow, Syslog, ELK Stack, Network Observability
-- 📚 **Documentation Systems**: Knowledge Management, Architecture Diagrams, Technical Writing
+- 📚 **Documentation Engineering**: Markdown/AsciiDoc Expert, Mermaid/PlantUML/D2 Diagrams, Obsidian PKM, Vim/Neovim Power User (10+ years), Self-Documenting Architecture
 
 ---
 
@@ -329,13 +329,27 @@ make dev
 ![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?logo=wireshark)
 ![Python Networking](https://img.shields.io/badge/Python-Netmiko%20%7C%20NAPALM-3776AB?logo=python)
 
+### Documentation & Diagramming Excellence
+![Markdown](https://img.shields.io/badge/Markdown-Expert-000000?logo=markdown)
+![Mermaid](https://img.shields.io/badge/Mermaid-Live%20Diagrams-FF3670?logo=mermaid)
+![PlantUML](https://img.shields.io/badge/PlantUML-Architecture-FBBD04)
+![D2](https://img.shields.io/badge/D2-Modern%20Diagrams-0066FF)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-Collaborative-6965DB?logo=excalidraw)
+![AsciiDoc](https://img.shields.io/badge/AsciiDoc-Technical%20Docs-E40046?logo=asciidoctor)
+![Obsidian](https://img.shields.io/badge/Obsidian-PKM%20Expert-7C3AED?logo=obsidian)
+![Vim](https://img.shields.io/badge/Vim-10%2B%20Years-019733?logo=vim)
+![Neovim](https://img.shields.io/badge/Neovim-Power%20User-57A143?logo=neovim)
+![LaTeX](https://img.shields.io/badge/LaTeX-Academic-008080?logo=latex)
+![YAML](https://img.shields.io/badge/YAML-Configuration-CB171E?logo=yaml)
+![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux)
 ![WSL2](https://img.shields.io/badge/WSL2-Development-0078D4?logo=windows)
-![Neovim](https://img.shields.io/badge/Neovim-Editor-57A143?logo=neovim)
-![Obsidian](https://img.shields.io/badge/Obsidian-PKM-7C3AED?logo=obsidian)
-![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-FF3670?logo=mermaid)
+![Tmux](https://img.shields.io/badge/Tmux-Multiplexer-1BB91F?logo=tmux)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-DevOps-FCA121?logo=gitlab)
 
 ### Currently Learning & Improving
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
