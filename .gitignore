@@ -1,56 +1,14 @@
-# Tools Repository - PUBLIC
-# This repo contains reusable utilities and scripts
-
-# Never commit credentials
-*.apikey
-*.token
-.env
-.env.*
-credentials/
-secrets/
-config/production.json
-config/secrets.json
-
-# Python
+*.pyc
 __pycache__/
-*.py[cod]
-venv/
-.pytest_cache/
-
-# Node
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Terraform modules
-*.tfstate
-*.tfstate.*
-.terraform/
-
-# Testing/Coverage
-coverage/
-.coverage
-htmlcov/
-.nyc_output/
-
-# Build artifacts
-dist/
-build/
-*.egg-info/
-
-# IDE
-.idea/
-.vscode/
-*.sublime-*
-
-# OS
-.DS_Store
-Thumbs.db
-*.swp
-*~
-
-# Logs
 *.log
-logs/
-tmp/
+*.json
+*.csv
+.env
+.venv/
+venv/
+env/
+*.swp
+.DS_Store
+test_report.json
+!example_ise.log
+!requirements.txt
