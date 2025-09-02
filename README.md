@@ -16,11 +16,14 @@
 This repository demonstrates production-ready solutions developed through real-world enterprise experience. Each project showcases different aspects of modern infrastructure engineering, from network security automation to full-stack application development.
 
 **Core Competencies:**
-- 🔐 **Network Security**: Cisco ISE, 802.1X, Zero Trust Architecture
-- ☁️ **Platform Engineering**: Infrastructure as Code, GitOps, Automation
-- 🛠️ **Full-Stack Development**: React, Node.js, PostgreSQL
-- 📚 **Documentation Systems**: Knowledge Management, Technical Writing
-- 🎨 **Visualization**: Network Diagrams, Architecture Documentation
+- 🔐 **Network Engineering**: CCNP-level Routing/Switching, BGP, OSPF, EIGRP, VLANs, STP, VTP
+- 🛡️ **Network Security**: Cisco ISE Expert, 802.1X/MAB/WebAuth, RADIUS/TACACS+, NAC, Zero Trust
+- 🌐 **Enterprise Infrastructure**: Campus/Data Center Design, QoS, Multicast, MPLS, SD-WAN
+- 🔧 **Network Automation**: Python Network Programming, NETCONF/RESTCONF, Ansible, NAPALM
+- ☁️ **Platform Engineering**: Infrastructure as Code, GitOps, CI/CD, Containerization
+- 🛠️ **Full-Stack Development**: Next.js, React, Node.js, PostgreSQL, Redis
+- 📊 **Monitoring & Analytics**: SNMP, NetFlow, Syslog, ELK Stack, Network Observability
+- 📚 **Documentation Systems**: Knowledge Management, Architecture Diagrams, Technical Writing
 
 ---
 
@@ -313,11 +316,18 @@ make dev
 ![Railway](https://img.shields.io/badge/Railway-Deployment-0B0D0E?logo=railway)
 
 ### Network & Security
-![Cisco](https://img.shields.io/badge/Cisco-ISE%20%7C%20IOS-1BA0D7?logo=cisco)
-![802.1X](https://img.shields.io/badge/802.1X-Authentication-005571)
-![RADIUS](https://img.shields.io/badge/RADIUS-Protocol-4B0082)
+![Cisco](https://img.shields.io/badge/Cisco-ISE%20%7C%20IOS%20%7C%20NX--OS-1BA0D7?logo=cisco)
+![BGP](https://img.shields.io/badge/BGP-Routing-FF6600)
+![OSPF](https://img.shields.io/badge/OSPF-Protocol-4169E1)
+![EIGRP](https://img.shields.io/badge/EIGRP-Cisco-1BA0D7)
+![802.1X](https://img.shields.io/badge/802.1X-NAC-005571)
+![RADIUS](https://img.shields.io/badge/RADIUS/TACACS+-AAA-4B0082)
+![SD-WAN](https://img.shields.io/badge/SD--WAN-Viptela-00BCB4)
+![MPLS](https://img.shields.io/badge/MPLS-WAN-8B4513)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-DC143C)
 ![SASE](https://img.shields.io/badge/SASE-Security-FF6347)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?logo=wireshark)
+![Python Networking](https://img.shields.io/badge/Python-Netmiko%20%7C%20NAPALM-3776AB?logo=python)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
