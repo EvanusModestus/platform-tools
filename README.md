@@ -4,10 +4,11 @@
 > 
 > Open-source tools and documentation showcasing real-world solutions for enterprise infrastructure
 
-[![GitHub](https://img.shields.io/badge/GitHub-EvanusModestus-181717?logo=github)](https://github.com/EvanusModestus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/evan-rosado)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
+[![GitHub followers](https://img.shields.io/github/followers/EvanusModestus?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvanusModestus)
+[![GitHub stars](https://img.shields.io/github/stars/EvanusModestus?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvanusModestus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evanjrosado)
+[![X Follow](https://img.shields.io/twitter/follow/evanusmodestus?style=for-the-badge&logo=x&logoColor=white)](https://x.com/evanusmodestus)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 ---
 
 ## 🎯 About This Repository
@@ -266,8 +267,8 @@ I'm passionate about solving complex infrastructure challenges and sharing knowl
 
 ### Contact
 - 📧 Email: [evan.rosado@outlook.com](mailto:evan.rosado@outlook.com)
-- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/evan-rosado)
-- 🐦 X: [@EvanusModestus](https://x.com/EvanusModestus)
+- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/evanjrosado)
+- 🐦 X: [@evanusmodestus](https://x.com/evanusmodestus)
 - 📝 Blog: [Technical Blog](https://github.com/EvanusModestus/tech-blog)
 
 ---
