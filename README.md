@@ -285,22 +285,55 @@ make dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript)
 ![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnu-bash)
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?logo=postgresql)
+![YAML](https://img.shields.io/badge/YAML-Expert-CB171E?logo=yaml)
 
-### Technologies
+### Frontend Technologies
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?logo=redis)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-FF0050?logo=framer)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-Diagramming-6965DB?logo=excalidraw)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-Framework-000000?logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)
-![Cisco](https://img.shields.io/badge/Cisco-ISE%20%7C%20IOS-1BA0D7?logo=cisco)
+![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?logo=redis)
+![NextAuth](https://img.shields.io/badge/NextAuth-OAuth-000000?logo=auth0)
+
+### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
-![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
-
-### Tools & Platforms
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions)
+![Railway](https://img.shields.io/badge/Railway-Deployment-0B0D0E?logo=railway)
+
+### Network & Security
+![Cisco](https://img.shields.io/badge/Cisco-ISE%20%7C%20IOS-1BA0D7?logo=cisco)
+![802.1X](https://img.shields.io/badge/802.1X-Authentication-005571)
+![RADIUS](https://img.shields.io/badge/RADIUS-Protocol-4B0082)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-DC143C)
+![SASE](https://img.shields.io/badge/SASE-Security-FF6347)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux)
+![WSL2](https://img.shields.io/badge/WSL2-Development-0078D4?logo=windows)
+![Neovim](https://img.shields.io/badge/Neovim-Editor-57A143?logo=neovim)
+![Obsidian](https://img.shields.io/badge/Obsidian-PKM-7C3AED?logo=obsidian)
+![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-FF3670?logo=mermaid)
+
+### Currently Learning & Improving
+![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
+![Rust](https://img.shields.io/badge/Rust-Systems-000000?logo=rust)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?logo=go)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?logo=grafana)
 
 ---
 
